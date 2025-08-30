@@ -1,0 +1,10 @@
+sudo systemctl daemon-reload # перезагрузить демон
+
+sudo systemctl enable zapret.service # поставить на авто-запуск
+sudo systemctl disable zapret.service # отключить авто-запуск
+
+sudo systemctl start zapret.service # запуск службы
+sudo systemctl stop zapret.service # остановка службы
+sudo systemctl status zapret.service # просмотр статуса службы
+
+# Путь до самого сервиса zapret - /etc/systemd/system/
