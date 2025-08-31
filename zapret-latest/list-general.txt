@@ -91,4 +91,15 @@ videodelivery.net
 warp.plus
 workers.dev
 rule34.xxx
+telegram.org
+telegram.me
+telegram.com
+cdn.telegram.com
+secure.telegram.com
+sa.telegram.com
+video.telegram.com
+user.telegram.com
+api.telegram.org
+telegramapi.com
+mtproto.org
 
