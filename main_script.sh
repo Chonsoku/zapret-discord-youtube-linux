@@ -3,7 +3,7 @@
 # Константы
 BASE_DIR="$(realpath "$(dirname "$0")")"
 REPO_DIR="$BASE_DIR/zapret-latest"
-REPO_URL="https://github.com/Flowseal/zapret-discord-youtube"
+REPO_URL="https://github.com/Chonsoku/zapret-discord-youtube-linux"
 NFQWS_PATH="$BASE_DIR/nfqws"
 CONF_FILE="$BASE_DIR/conf.env"
 STOP_SCRIPT="$BASE_DIR/stop_and_clean_nft.sh"
